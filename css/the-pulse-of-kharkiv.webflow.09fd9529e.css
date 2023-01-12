@@ -2036,6 +2036,17 @@ figcaption {
   background-size: cover;
 }
 
+.slide-277 {
+  background-image: url("../images/20230112_135753.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.slide-278 {
+  background-image: url("../images/IMG_20230112_141505_446.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
 .slide-1-9 {
   background-image: url("../images/63bfe1d8634af2b77af1e01c_IMAGE%202023-01-12%2012%253A32%253A54%20PM.jpg");
   background-position: 50% 50%;
@@ -2387,6 +2398,10 @@ figcaption {
     margin-left: 15px;
   }
 
+  .slider.slider-honors {
+    height: 400px;
+  }
+
   .container {
     text-align: center;
   }
@@ -2542,6 +2557,10 @@ figcaption {
   .navigation {
     padding-right: 20px;
     padding-left: 20px;
+  }
+
+  .slider.slider-honors {
+    height: 260px;
   }
 
   .menu-button {
